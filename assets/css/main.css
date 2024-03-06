@@ -1730,7 +1730,6 @@ body.is-loading #header .content .inner {
   -ms-transform: translateY(0);
   transform: translateY(0);
   opacity: 1;
-  /* width: 80%; */
 }
 
 #main article .close {
